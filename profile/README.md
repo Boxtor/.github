@@ -9,4 +9,8 @@ En caso de encontrar un bug o querer proponer una funcionalidad, abre un issue e
 * [Gun DB](https://github.com/Boxtor/boxtor_gun/issues)
 * [Traducciones](https://github.com/Boxtor/boxtor_i18n/issues)
 
-**POR FAVOR, UTILIZA LA PLANTILLA CORRESPONDIENTE E INTENTA SER LO MÁS DESCRIPTIVO POSIBLE**
+**Por favor, utiliza la platilla correspondiente e intenta ser lo más descriptivo posible**
+
+### Estado del proyecto 💨
+
+Puedes consultar el estado [aquí](https://github.com/orgs/Boxtor/projects/1)
