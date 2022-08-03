@@ -28,12 +28,14 @@ Si es necesario, adjunta capturas para explicar el problema de forma más clara
 **Escritorio (completa la información):**
  - OS: [e.g. Windows or Linux + distro]
  - Navegador [e.g. chrome, safari]
+ - Billetera [e.g metamask, brave wallet]
  - Version [e.g. 22]
 
 **Smartphone (completa la información):**
  - Dispositivo: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Navegador [e.g. stock browser, safari]
+ - Billetera [e.g metamask, brave wallet]
  - Version [e.g. 22]
 
 **Información adicional**
