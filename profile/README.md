@@ -7,7 +7,6 @@ En caso de encontrar un bug o querer proponer una funcionalidad, abre un issue e
 * [Smart Contracts](https://github.com/Boxtor/boxtor_contracts/issues)
 * [Sync Server](https://github.com/Boxtor/boxtor_sync/issues)
 * [Gun DB](https://github.com/Boxtor/boxtor_gun/issues)
-* [Traducciones](https://github.com/Boxtor/boxtor_i18n/issues)
 
 **Por favor, utiliza la platilla correspondiente e intenta ser lo más descriptivo posible**
 
